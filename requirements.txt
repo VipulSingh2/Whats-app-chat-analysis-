@@ -1,0 +1,8 @@
+streamlit 
+matplotlib
+seaborn
+mplcyberpunk
+pandas
+urlextract
+collections
+emoji
