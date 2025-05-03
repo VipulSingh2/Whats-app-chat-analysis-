@@ -1,0 +1,9 @@
+[theme]
+base = "light"
+
+[server]
+headless = true
+
+[ui]
+# This sets the app to always use the wide layout
+wideMode = true
