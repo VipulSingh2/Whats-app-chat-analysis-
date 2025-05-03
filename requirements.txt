@@ -5,3 +5,5 @@ mplcyberpunk
 pandas
 urlextract
 emoji
+wordcloud
+Pillow
