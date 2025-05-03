@@ -1,10 +1,7 @@
-streamlit 
+streamlit
 matplotlib
 seaborn
 mplcyberpunk
 pandas
 urlextract
-collections
 emoji
-pandasssss
-re
